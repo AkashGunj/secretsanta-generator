@@ -12,6 +12,7 @@
 	<groupId>com.notthebest</groupId>
 	<artifactId>secretsanta</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	 <packaging>war</packaging>
 	<name>secretsanta</name>
 	<description>Secret Santa Matchmaking</description>
 
